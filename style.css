@@ -44,3 +44,6 @@ img {
     height: 300px;
      width: 300px;   
 }
+html{
+    scroll-behavior: smooth;
+}
