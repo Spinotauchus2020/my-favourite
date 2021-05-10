@@ -40,10 +40,34 @@ img {
     font-family: 'Original Surfer', cursive;
     background: linear-gradient(#263691 0%, #58d660 100%);
 }
-.players{
+
+.players {
     height: 300px;
-     width: 300px;   
+    width: 300px;
 }
-html{
+
+html {
     scroll-behavior: smooth;
+}
+
+#dad {
+    transition: trasform .2s;
+    border: 10px solid 0000FFi;
+
+    height: 350px;
+    width: 400px;
+}
+
+#dad:hover {
+    transform: scale(1.2);
+}
+
+#DUD {
+    height: 350px;
+    width: 400px;
+}
+#Ddad{
+   font-size: 45px;
+    font-family: 'Original Surfer', cursive;
+    background: linear-gradient(#263691 0%, #58d660 100%);
 }
